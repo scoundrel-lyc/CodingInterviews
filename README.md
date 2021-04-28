@@ -10,7 +10,7 @@
 
 If this work helped you, please 🌟 this repositoriy, THANK YOU! 🙏
 
-By the way, my Leetcode page is : [mikezheng](https://leetcode-cn.com/u/_codingmike/)
+By the way, my Leetcode page is : [liao-yu-cheng](https://leetcode-cn.com/u/liao-yu-cheng/)
 
 
 
